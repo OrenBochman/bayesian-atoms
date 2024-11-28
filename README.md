@@ -1,0 +1,2 @@
+# bayesian-atoms
+Bayesian updating
